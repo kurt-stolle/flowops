@@ -1,2 +1,3 @@
-# flowops
-Optical flow is the mapping of pixel movement between two ordinal frames
+# FlowOps
+
+Python library for various optical flow related tasks.
